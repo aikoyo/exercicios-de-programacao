@@ -1,2 +1,2 @@
-# exercicios-de-programacao
-Repositório para armazenar exercicios de diversas linguagens de programação.  
+# 📝 exercicios-de-programacao
+Repositório para armazenar exercícios de diversas linguagens de programação.
